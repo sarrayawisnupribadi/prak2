@@ -1,0 +1,24 @@
+{            
+                isbn: "12345", 
+                judul: "Buku Mewarnai",
+                penulis: "Pertamina",
+                penerbit: "Pertamina",
+                harga: 25000,
+                cover: "https://drive.google.com/uc?id=1qd7hiQNgbMr4lECAi-J_2w-A0N7k_7ft"
+                },
+                {            
+                    isbn: "23456", 
+                    judul: "Mermaid To Rescue",
+                    penulis: "Elizabeth Francis",
+                    penerbit: "Accidental Pirates",
+                    harga: 25000,
+                    cover: "https://drive.google.com/uc?id=1bruJb5Zz5phcPMbRNM7H9xMrPwUGgtzB"
+                    },
+                    {            
+                        isbn: "34567", 
+                        judul: "Yuk,Mari Sekolah",
+                        penulis: "Guru",
+                        penerbit: "Sekolah",
+                        harga: 25000,
+                        cover: "https://drive.google.com/uc?id=1VaMUxsuEvCOyr_6tSI3QLRsfFlJY0h6q"
+                        }
